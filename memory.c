@@ -5,7 +5,7 @@ int a,b,c;
 
 void callStack3() {
     int n3;
-    printf("stack2 address: %p\n", &n3);
+    printf("stack3 address: %p\n", &n3);
     printf("\n");
 }
 
