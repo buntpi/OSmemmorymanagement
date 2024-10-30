@@ -1,6 +1,6 @@
 stack1 address: 0x16af6747c
 stack2 address: 0x16af6745c
-stack2 address: 0x16af6743c
+stack3 address: 0x16af6743c
 
 malloc1 address: 0x600003cb8020
 malloc2 address: 0x600003cb8030
